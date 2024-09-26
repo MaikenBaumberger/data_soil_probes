@@ -1,2 +1,3 @@
 # Soil temperature and soil moisture probe measurement data
-This repository contains soil temperature and soil moisture data collected using Drill &amp; Drop probes in the Fichtelgebirge Mountains.
+This repository contains soil temperature and soil moisture data collected in the Fichtelgebirge Mountains between November 2021 and December 2022. Measurements were taken with 15 probes (Drill & Drop Probe RS232, Sentek Technologies, Australia), having a vertical resolution of 10 cm down to a depth of 90 or 120 cm. By shifting the probes in a weekley or monthley term, the dataset includes 251 differnt locations. In addition, there are 2 permanent measurements.
+Details on soil probes and sampling desing can be found in "High-resolution soil temperature and soil moisture patterns in space, depth and time: an interpretable machine learning modelling approach" published in Geoderma.
