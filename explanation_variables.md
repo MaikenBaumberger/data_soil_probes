@@ -9,7 +9,7 @@ VARIABLES IN META DATA
 - lat: latitude
 - lon: longitude
 - org_layer: thickness of the organic layer at forest plots 
-- excess_length: length by which the probe protruded from the soil (the soil depths of the measurements were adjusted accordingly)
+- excess_length: length in cm by which the probe protruded from the soil (the soil depths of the measurements were adjusted accordingly)
 - probe_length: total length of the probe in cm
 - land_use: land use category (forest, grassland, or arable land)
 - time_res: temporal resolution of the measurements in minutes
